@@ -1,0 +1,2 @@
+The AI Travel Planner for Students is a web-based application that uses artificial intelligence to generate personalized travel itineraries based on a student’s destination, travel dates, budget, and preferences. The system integrates AI-powered itinerary generation, interactive maps, and location-based recommendations to help students plan affordable, safe, and well-organized trips. By combining real-time data processing and user-friendly design, the platform simplifies travel planning and enhances the overall travel experience for students.
+
