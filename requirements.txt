@@ -1,6 +1,8 @@
 streamlit
-google-generativeai
-googlemaps
+openai
+firebase-admin
+google-cloud-firestore
+folium
+streamlit-folium
+geopy
 requests
-python-dotenv
-pandas
